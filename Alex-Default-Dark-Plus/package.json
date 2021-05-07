@@ -1,0 +1,21 @@
+{
+    "name": "Alex-Default-Dark-Plus",
+    "displayName": "Alex's Default Dark+",
+    "description": "Just a theme I made with bright, vibrant colors. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alex Hertel's Dark+ Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alex Hertel's Dark+ Theme-color-theme.json"
+            }
+        ]
+    }
+}
